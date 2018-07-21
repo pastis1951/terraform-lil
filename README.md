@@ -1,2 +1,2 @@
 # terraform-lil
-Teerraform Lynda Learning Prohect 
+Terraform Lynda Learning Project.
